@@ -1,0 +1,6 @@
+@OneMusic.WebApi_HostAddress = http://localhost:5063
+
+GET {{OneMusic.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
